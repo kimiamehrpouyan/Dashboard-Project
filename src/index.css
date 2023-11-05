@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap");
+
+:root {
+  --black-color: "#030229";
+  --purple-color: "#605BFF";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Nunito Sans", sans-serif;
+  background-color: #fafafb;
+  height: 100%;
+}
+.App {
+  display: flex;
+  gap: 50px;
+}
